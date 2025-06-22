@@ -11,10 +11,10 @@ CraftBazar is a **React.js-based e-commerce web application** for showcasing and
 ## 📌 Features
 
 - 🏠 **Home Page** with introduction
-- 🛍️ **Products Listing** (static/dummy data for now)
+- 🛍️ **Products Listing**
 - 🛒 **Add to Cart** functionality
 - 📦 **Order Page** to review your orders
-- 🔐 **Admin Login Page** (UI only)
+- 🔐 **Admin Login Page**
 - 📱 **Responsive Design**
 
 ---
